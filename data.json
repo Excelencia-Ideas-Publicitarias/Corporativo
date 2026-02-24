@@ -1,0 +1,32 @@
+{
+  "empresa": "Excelencia Ideas Publicitarias, S.L.",
+  "trayectoria": "30 años",
+  "ambito_actuacion": ["Local (Bizkaia)", "Regional (Euskadi)", "Nacional (España)"],
+  "unidades_de_negocio": {
+    "medios_propios_prensa": [
+      "enSanturtzi.com",
+      "enPortugalete.com",
+      "enSestao.com",
+      "enZonaMinera.com",
+      "enBarakaldo.com",
+      "Bilbao Bi Aste"
+    ],
+    "publicidad_exterior_premium": [
+      "Aeropuerto de Bilbao",
+      "Metro Bilbao",
+      "Puente Colgante",
+      "Flotas de Autobuses",
+      "Vallas Nacionales"
+    ],
+    "partners_media_nacional": {
+      "prensa": ["El Correo", "Deia", "ABC", "El Mundo"],
+      "radio": ["COPE", "Onda Cero", "Radio 7", "SER"]
+    },
+    "servicios_digitales": [
+      "Desarrollo Web",
+      "Social Ads Nacional",
+      "SEO/SEM",
+      "Gestión RRSS"
+    ]
+  }
+}
